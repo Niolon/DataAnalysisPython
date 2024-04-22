@@ -1,0 +1,3 @@
+axes.prop_cycle : cycler("color", ["#68246d", "#bf0603", "#ff3366", "#928779", "#0496ff"])
+
+figure.constrained_layout.use: True
