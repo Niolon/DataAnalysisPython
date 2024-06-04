@@ -6,9 +6,9 @@ Welcome to the Course "Data Analysis in Python" repository! This repository cont
 
 The repository is organized as follows:
 
-- `Course`: This folder contains the presentations and exercises for the course. Each topic has its own subfolder with the corresponding materials.
+- `Course`: This folder contains the presentations and exercises for the course. Each topic has its own jupyter notebook with the corresponding materials.
 
-- `Filled_Course`: This folder contains the already completed notebooks and the solutions to the exercises in the `Course` folder. It is meant for reference purposes for teaching the course and as a fallback if students something is missing from the notes students made during the course.
+- `Filled_Course`: This folder contains the already completed notebooks and the solutions to the exercises in the `Course` folder. It is meant for reference purposes for teaching the course and as a fallback if something is missing from the notes students made during the course.
 
 - `Data`: This folder contains the data used during the presentation and the exercises
 
