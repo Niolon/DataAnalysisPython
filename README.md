@@ -21,7 +21,7 @@ To get started with the course, follow these steps:
 1. Clone the repository to your local machine using the following command or you can download this repo as zip file:
 
     ```
-    git clone https://github.com/your-username/course-data-analysis-python.git
+    git clone https://github.com/DurhamARC-Training/DataAnalysisPython
     ```
 
 2. If you want to set up a new conda environment for the course you can use the environment.yml provided in this folder.
@@ -29,6 +29,12 @@ To get started with the course, follow these steps:
 3. Navigate to the `Course` folder to access the presentations and exercises to use during the course.
 
 4. If you need assistance, refer to the `Filled_Course` folder for the solutions.
+
+5. There is also a python script which downloads everything (including the filled notebook) as a ZIP archive and extracts it a folder if GIT isn't available:
+
+      a. Download the `pull_files_from_repo.py` file and put it into your environment
+
+      b. Execute `python pull_files_from_repo.py` in the folder.
 
 ## Getting Started for Teaching
 
