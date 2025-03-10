@@ -60,3 +60,6 @@ To get started with teaching the course, follow these steps:
 ## Contributing
 
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Contributions are welcome!
+
+You can add the files of the `common-tools-for-teaching` github submodule by typing in `git submodule update --init`. Consult the README in that directory for further instructions.
+In general you should never edit the files contained within the `Course` folder, but work on `Filled_Course` and have the tool generate the Student version notebooks automatically.
